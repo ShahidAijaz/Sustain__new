@@ -9,3 +9,5 @@
    `npm install`
 3. Run the app:
    `npm run dev`
+   backend
+   vicorn app.main:app --reload --port 5000                                               
